@@ -1,0 +1,22 @@
+Array方法：
+
+push() 推入数组末尾
+pop() 移除最后一项
+shift() 移除并返回第一项
+unshift() 给数组前端添加若干项
+
+reverse() 反转顺序
+sort() 加权重排序*
+
+concat() 合并数组（到后面 （不影响原数组）
+slice() 切割数组，一个参数为从n-底，两个参数为n1-n2 （不影响原数组）
+splice() (起始,要删除的项数)删除 (起始,要删除的项数,[插入项])替换
+
+indexof()
+lastindexof()
+
+every() 若每一项都true则true
+filter() 返回true项组成的数组
+forEach() 无返回值
+map() 返回结果组成的数组
+some() 若有一项返回true则true
