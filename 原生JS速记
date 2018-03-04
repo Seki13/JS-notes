@@ -15,6 +15,7 @@ splice() (起始,要删除的项数)删除 (起始,要删除的项数,[插入项
 indexof()
 lastindexof()
 
+迭代：对每一项运行给定函数。
 every() 若每一项都true则true
 filter() 返回true项组成的数组
 forEach() 无返回值
